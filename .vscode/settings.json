@@ -1,0 +1,8 @@
+{
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "html.format.endWithNewline": true,
+    "typescript.format.insertSpaceAfterTypeAssertion": true,
+    "html.format.indentInnerHtml": true,
+    "html.format.indentHandlebars": true
+}

@@ -1,0 +1,9 @@
+.pagination {
+  justify-content: center;
+  margin-top: 100px;
+}
+
+.pagination li a {
+  background-color: rgb(101, 101, 231);
+  color: #fff;
+}

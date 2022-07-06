@@ -1,0 +1,18 @@
+.searchBox input {
+  width: 30%;
+  height: 46px;
+  line-height: 46px;
+  font-size: 1.1em;
+  color: rgba(0, 0, 0, 0.5);
+  border: none;
+  padding: 10px 20px;
+}
+
+.searchBox button {
+  width: 200px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: blueviolet;
+  border: none;
+  color: #fff;
+}

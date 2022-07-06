@@ -1,0 +1,15 @@
+.hero {
+  background-image: url("https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces//bcpATvKQmSgCbwxONs9PPQrer3A.jpg");
+  height: 50vh;
+  background-size: cover;
+  box-shadow: inset 0 0 0 2000px rgba(255, 0, 150, 0.3);
+  text-align: center;
+  color: #fff;
+}
+.hero_content {
+  position: absolute;
+  margin-top: 150px;
+}
+.hero_content h2 {
+  font-size: 60px;
+}

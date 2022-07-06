@@ -1,0 +1,15 @@
+.show_title {
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+}
+.show_wrapper {
+  border: 2px solid white;
+  text-align: center;
+  margin-top: 50px;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+}
+.show_wrapper:hover {
+  transform: scale(1.1);
+}
